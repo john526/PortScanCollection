@@ -1,0 +1,28 @@
+Agenda:
+   
+   - Create a repo called PortScanCollection
+   - Simple TCP connect examples in : 
+     
+      * Java
+      * Python
+      * Go
+      * C or C++
+   
+  - Make at least one of them pretty full featured : 
+      
+     * TCP Syn Scan (C++)
+     * Multi-threaded (Go)
+     *CSV/spreadsheet output format (python)
+     *GUI option if time (python tk ? java ?)
+
+End goal : Push PortScanCollection repo to Github with the tools 
+
+
+source code :
+     Google 
+     DevDungeon.com 
+ 
+     Thank you (- -)
+                 -
+               /( )\
+                / \ 
