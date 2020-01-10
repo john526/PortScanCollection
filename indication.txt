@@ -11,7 +11,7 @@ Agenda:
   - Make at least one of them pretty full featured :
 
      * TCP Syn Scan (C++)
-     * Multi-threaded (Go)
+     * Multi-threaded (Go+java)
      *CSV/spreadsheet output format (python)
      *GUI option if time (python tk ? java ?)
 
@@ -22,7 +22,12 @@ source code :
      Google
      DevDungeon.com
 
-     Thank you (- -)
+     Thank you (- -)   (- -)
+                 -       -
+               /( )\   /( )\
+                / \     / \
+
+               (- -)
                  -
                /( )\
-                / \
+                / \ 
