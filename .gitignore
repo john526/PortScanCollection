@@ -3,4 +3,4 @@
 .idea
 *.pcy
 __pycache__
-python/*.csv
+*.csv
